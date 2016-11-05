@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_29568622a191646dc4e6f879af8e93b3a430afe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_0a048b7f737e42c5491d80d6b19b88e25e869376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_9af8e58dcbb7dcca26aaa2e49e0b436fbfd4e0d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_5182f4d281360911b55a37be2df7812a36e6a134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_2b9ce6810aba7f51821e9cef4e2e5c4710aba498/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d52f8d637112ddafb620f5a380d0fa2096120526">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_92d695c0429a1ac1e17465de72e36ec1c8846651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_d52b1f83b714c57e8f3ceadbc86769e591f755e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_55ad078bf46fef8bb4c3973de8a4698cd1d98a55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_fb8029224b39a7aee1a5ac397c90ea64791f45e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_af795255f538ad20e40b31cde651f25cb136fc7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-21.0.3_79bef4518212d3ef21c8482660bac96d4072f9a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_fdace7304cb7abc7b815d8e7ab3d442a9312d23b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-21.0.3_5b05ebc2171d8a89f005ede0056b7fcc24b4069d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_1db3a4bdfd53d7ade20f6b58fde8b33ae5845cbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_fb5d8d83d90e93784cecb4c2608fba51fb972e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_0483e244d8fb481598286495cdee2740828316cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d0f322642006d35c0a039b3b58711c5c228d4d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/.gradle/caches/modules-2/files-2.1/io.moj.java/mojio-sdk-model/0.0.123/bcd0e1abcc9486e23cefe1d3138b2b07b1a2be97/mojio-sdk-model-0.0.123.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcd0e1abcc9486e23cefe1d3138b2b07b1a2be97">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/mojio-sdk-model-0.0.123_8fd46bb439abb290a04862b5653d44e6589f5326/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_45ad6fa6ef1fa1acd753f881a3d2b9381fcca340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_30cec0e46953d3423768a91ef6c11e281dfc0dcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a22a2a44605b62bb12e7fd4ebc313fafcec16d6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/.gradle/caches/modules-2/files-2.1/io.moj.java/mojio-sdk-rest/0.0.123/823e91d498238e982a4ec9436b2e9f8f2c89f1c5/mojio-sdk-rest-0.0.123.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="823e91d498238e982a4ec9436b2e9f8f2c89f1c5">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/mojio-sdk-rest-0.0.123_b2512e8913ad51c825e67c9a570c94e40a9d4518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_cbcc6c3178896add57f2ae1910887e1f19218255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_a004a59b43a4117e8bbe7f31866bc4fa23e597fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_948096feb28dacf25ebb6b3d80b8341bd6af5513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_58b7b3c695a0e4f250791a412bf99c134b5f9053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_547c7ab7112d7620a0c3e1ea998ca88d357f3279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8b6009587abadf978e6ffe56c694358ad4d29b5">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2daec85074d63c457b20c70c601c1693359b018d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/alexc/Google Drive/AndroidStudioProjects/MojioExercise1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_2293d8a096881e33f67ad91d146baa32294a09a0/classes.dex" />
+    </item>
+
+</items>
